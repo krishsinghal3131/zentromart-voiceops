@@ -1,0 +1,3 @@
+openai>=1.40
+gnani-vachana
+# optional: anthropic (only if LLM_PROVIDER=anthropic), sounddevice (only for `python run.py voice` with a microphone)
